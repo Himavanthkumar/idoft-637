@@ -6386,3 +6386,4 @@ https://github.com/zavtech/morpheus-core,09895c1a16293b69bbc79cd952fcec3d5d89e37
 https://github.com/zavtech/morpheus-core,09895c1a16293b69bbc79cd952fcec3d5d89e372,.,com.zavtech.morpheus.array.ArraysBasicTests.testLocalDateTimeArray,ID,Opened,https://github.com/zavtech/morpheus-core/pull/107,
 https://github.com/zavtech/morpheus-core,09895c1a16293b69bbc79cd952fcec3d5d89e372,.,com.zavtech.morpheus.array.ArraysBasicTests.testZonedDateTimeArray,ID,Opened,https://github.com/zavtech/morpheus-core/pull/107,
 https://github.com/zhangxd1989/spring-boot-cloud,e3966d7cefa4fa429d13bbc8de7f4dafbae0de35,registry,cn.zhangxd.registry.ApplicationTests.catalogLoads,ID,,,
+added new line here
